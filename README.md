@@ -3,7 +3,8 @@
 
 ## Teammates
 
-<img src = "https://drive.google.com/file/d/172PLtdbaLk42Y_ME_wfkZo-zl7d6dMnD/view?usp=sharing" alt = "My picture" width = 700/>
+<img src = "https://user-images.githubusercontent.com/71749153/233842883-c368fc89-b909-44ec-9dc5-686bdccb4dff.png" alt = "My picture" width = 700/>
+
 
 <br>
 
