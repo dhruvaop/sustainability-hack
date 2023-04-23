@@ -1,4 +1,4 @@
-# Introduce BrightWaste - Courier Hacks 2022
+# sustainability-hack
 ## A Sustainable Marketplace Website that can give people options either to sell the used items directly to the shop or to upcycle the discarded items and sell it for a better price 
 
 ## Teammates
