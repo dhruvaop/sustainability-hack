@@ -5,7 +5,7 @@
 
 <img src = "https://user-images.githubusercontent.com/71749153/233842883-c368fc89-b909-44ec-9dc5-686bdccb4dff.png" alt = "My picture" width = 700/>
 
-bit.ly/3q1zqfx
+https://bit.ly/3q1zqfx
 
 <br>
 
