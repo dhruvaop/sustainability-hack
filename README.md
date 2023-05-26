@@ -14,7 +14,10 @@ https://bit.ly/3q1zqfx
 ## Description of the project
 In the current situation with waste, we need to figure out how to figure out the waste we currently have, for example, glass bottle or even furniture. Sometimes recycling itself doesn't work. We all have to contribute to do something else. 
 
-<img src = "https://drive.google.com/uc?export=view&id=1-lj3RUSCyJUeDMpYIbMKMTCXGd6NVKSc" alt = "Glass bottle fact" width = 700/>
+<!-- <img src = "https://drive.google.com/uc?export=view&id=1-lj3RUSCyJUeDMpYIbMKMTCXGd6NVKSc" alt = "Glass bottle fact" width = 700/> -->
+
+<img width="704" alt="Glass bottle" src="https://github.com/dhruvaop/sustainability-hack/assets/71749153/58843aae-5374-4924-8f15-620032d76d2b">
+
 
 It could be easier to sell it for a lower price directly, but instead of doing so, **why don't we turn it into something more meaningful and can have more value to it? It doesn't only impact the earth; also, we can contribute to the economy cycle.**
 
